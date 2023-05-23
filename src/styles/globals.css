@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.try-hosting-bg {
+  background-image: url(../../public/images/host.jpg);
+}
