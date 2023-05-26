@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero/>
-      <main>
+      <main className='px-10'>
         <TryHosting />
       </main>
     </>
