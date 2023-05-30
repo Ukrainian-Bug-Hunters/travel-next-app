@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .try-hosting-bg {
-  background-image: url(../../public/images/host.jpg);
+  background-image: url(../../public/imgs/host.jpg);
 }
