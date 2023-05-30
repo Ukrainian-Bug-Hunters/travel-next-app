@@ -6,7 +6,7 @@ import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 
 const Header = () => {
     return (
-        <div className='flex justify-between items-center'>
+        <div className='flex justify-between items-center py-1'>
             <Image src={AirBnbLogo} alt='Logo' className='w-[100px] mx-10 my-2'/>
             <div className='flex gap-3 pr-8 items-center'>
                 <p className='cursor-default'>Become a host</p>
