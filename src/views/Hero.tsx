@@ -6,7 +6,7 @@ import Image from 'next/image';
 const Hero : React.FC = () => {
     return (
         <div>
-            <Image src={HeroImg} alt='HeroImg' className='relative'/>
+            <Image src={HeroImg} alt='HeroImg'/>
             <HeroNavBar/>
         </div>
     );
